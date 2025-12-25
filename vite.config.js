@@ -5,6 +5,6 @@ import react from '@vitejs/plugin-react'
 // If deploying to username.github.io/repo-name, use base: '/repo-name/'
 export default defineConfig({
   plugins: [react()],
-  base: '/', // For username.github.io root domain deployment
+  base: '/abhishek-sukhadiya/', // For username.github.io root domain deployment
 })
 
